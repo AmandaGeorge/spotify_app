@@ -1,0 +1,9 @@
+.portrait {
+	background-image: url("wallpaper.jpg");
+	width: 100%;
+}
+
+.img-responsive {
+	width: 100px;
+	height: 100px;
+}
